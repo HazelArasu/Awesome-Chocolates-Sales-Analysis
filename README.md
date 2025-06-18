@@ -26,5 +26,4 @@ Analyze the store Awesome Chocolates' sales to find:
 - Higher sales correlates with higher profit %
 
 ## Sample Visual
-![](images/profit_distribution.png)
-
+<img width="597" alt="profit_distribution" src="https://github.com/user-attachments/assets/965fa614-1a0b-4347-8de0-75b253a5aea6" />
