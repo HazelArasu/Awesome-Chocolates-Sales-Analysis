@@ -19,6 +19,9 @@ Analyze the store Awesome Chocolates' sales to find:
 -Data modeling, slicers, KPIs, trend analysis
 -Data visualization
 
+## Github repository
+[AC](https://github.com/HazelArasu/Awesome-Chocolates-Sales-Analysis)
+
 
 ## Key Findings
 - Profit was the highest in the month of December
