@@ -1,5 +1,3 @@
-# Awesome Chocolates Sales Analysis
-
 ## Objective
 Analyze the store Awesome Chocolates' sales to find:
 - Trends across sales,boxes,costs and profits
